@@ -1,0 +1,34 @@
+[
+    {
+        "id":"01",
+        "name":"Content Writing"
+    },
+    {
+        "id":"02",
+        "name":"Web Development"
+    },
+    {
+        "id":"03",
+        "name":"App Development"
+    },
+    {
+        "id":"04",
+        "name":"Data Analyst"
+    },
+    {
+        "id":"05",
+        "name":"Database and SQL"
+    },
+    {
+        "id":"06",
+        "name":"Graphics Design"
+    },
+    {
+        "id":"07",
+        "name":"UI/UX"
+    },
+    {
+        "id":"08",
+        "name":"AI"
+    }
+]
